@@ -1,6 +1,6 @@
 ## ✨ Oioi! Sou a Poliana ✨
 
-- 📚 Cursando Ciência da Computação
+- 📚 Cursando Ciência da Computação no IFMG
 - 👽 Sempre buscando conhecimento
 - 💻 Atualmente estou aprendendo PHP e Laravel
 
