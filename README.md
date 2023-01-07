@@ -32,5 +32,5 @@
 </div> 
 
 
- 
+ ![snake gif](https://github.com/PolianaCSousa/PolianaCSousa/blob/output/github-contribution-grid-snake.svg)
 
