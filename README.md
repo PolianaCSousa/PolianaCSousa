@@ -2,7 +2,7 @@
 
 - 📚 Cursando Ciência da Computação no IFMG
 - 👽 Sempre buscando conhecimento
-- 💻 Atualmente estou aprendendo PHP e Laravel
+- 💻 Atualmente estou aprendendo PHP, Laravel e JS
 
 <div style="display: inline_block"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -11,6 +11,8 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 </div>
 
 ##
