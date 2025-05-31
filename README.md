@@ -2,7 +2,6 @@
 
 - 📚 Cursando Ciência da Computação no IFMG
 - 👽 Sempre buscando conhecimento
-- 💻 Atualmente estou aprendendo Docker 
 
 <div style="display: inline_block"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
